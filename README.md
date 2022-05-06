@@ -8,7 +8,7 @@ Web developer junior
 * ✉️  You can contact me at [contact@tomgue.fr](mailto:contact@tomgue.fr)
 * 🚀  I'm currently working on [my website](http://tomgue.fr)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Web project
+* 🤝  I'm open to collaborating on Web project or other
 
 ### Skills
 
