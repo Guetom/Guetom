@@ -4,8 +4,8 @@ Hi 👋 My name is Thomas
 Web developer junior
 --------------------
 
+<!-- * ✉️  You can contact me at [contact@tomgue.fr](mailto:contact@tomgue.fr) -->
 * 🌍  I'm based in Nantes in France
-* ✉️  You can contact me at [contact@tomgue.fr](mailto:contact@tomgue.fr)
 * 🚀  I'm currently working on [my website](http://tomgue.fr)
 * 🧠  I'm learning Flutter and Angular
 * 🤝  I'm open to collaborating on Web project or other
